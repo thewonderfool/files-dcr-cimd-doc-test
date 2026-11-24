@@ -1,6 +1,6 @@
 {
   "client_id": "https://raw.githubusercontent.com/thewonderfool/files-dcr-cimd-doc-test/main/mcp-toctou.json",
-  "client_name": "TOCTOU redirect test client",
+  "client_name": "TOCTOU v2 name",
   "redirect_uris": [
     "https://bugbountyhackerone17.files.com/oc/test-cb-a"
   ],
