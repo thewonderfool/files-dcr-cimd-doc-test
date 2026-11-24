@@ -1,0 +1,14 @@
+{
+  "client_id": "https://raw.githubusercontent.com/thewonderfool/files-dcr-cimd-doc-test/main/mcp-toctou.json",
+  "client_name": "TOCTOU redirect test client",
+  "redirect_uris": [
+    "https://bugbountyhackerone17.files.com/oc/test-cb-a"
+  ],
+  "grant_types": [
+    "authorization_code"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
