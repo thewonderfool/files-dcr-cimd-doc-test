@@ -1,0 +1,1 @@
+{"client_id": "https://raw.githubusercontent.com/thewonderfool/files-dcr-cimd-doc-test/main/mcp.json", "client_name": "Files.com DCR research trial CIMD client", "redirect_uris": ["https://bugbountyhackerone17.files.com/oc/test-cb"], "grant_types": ["authorization_code", "refresh_token"], "response_types": ["code"], "token_endpoint_auth_method": "none"}
